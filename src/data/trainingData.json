@@ -1,0 +1,41 @@
+[
+  {
+    "employeeName": "Bikas Mallik",
+    "employeeId": "TE-030316",
+    "department": "Agriculture",
+    "trainingModule": "Cyber Security Awareness",
+    "trainingType": "Refresher",
+    "status": "Completed",
+    "issueDate": "2026-01-12",
+    "instructor": "NIC Security Cell",
+    "certificateNumber": "NIC-CS-2026-0891",
+    "certificateFile": "bikas_mallik_security.pdf",
+    "remarks": "Successfully completed Cyber Security training with distinction."
+  },
+  {
+    "employeeName": "Asok Ranjan Chaudhuri",
+    "employeeId": "TE-064617",
+    "department": "Agriculture (Horticulture)",
+    "trainingModule": "Data Privacy Compliance",
+    "trainingType": "Induction",
+    "status": "In Progress",
+    "issueDate": "2026-05-10",
+    "instructor": "Finance IT Team",
+    "certificateNumber": "Pending",
+    "certificateFile": "john_doe_privacy.pdf",
+    "remarks": "Currently attending online modules."
+  },
+  {
+    "employeeName": "Niren Majumder",
+    "employeeId": "TE-062411",
+    "department": "Finance Department",
+    "trainingModule": "e-Procurement & GeM",
+    "trainingType": "Specialization",
+    "status": "Completed",
+    "issueDate": "2026-03-24",
+    "instructor": "Ministry of Commerce",
+    "certificateNumber": "GEM-EP-2026-302",
+    "certificateFile": "niren_majumder_gem.pdf",
+    "remarks": "Acquired certification for official government purchases."
+  }
+]
